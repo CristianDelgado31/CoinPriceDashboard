@@ -1,0 +1,6 @@
+@CoinPriceDashboard.API_HostAddress = https://localhost:7007
+
+GET {{CoinPriceDashboard.API_HostAddress}}/api/coinprice/
+Accept: application/json
+
+###
